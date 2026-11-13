@@ -13,7 +13,7 @@
   <circle cx="70" cy="30" r="5" fill="#27c93f"/>
   <g font-family="monospace" font-size="14" fill="#a78bfa">
     <text x="24" y="80">&gt; const dev = "Akarshak";</text>
-    <text x="24" y="108" fill="#c4b5fd">&gt; stack: MERN + AI</text>
+    <text x="24" y="108" fill="#c4b5fd">&gt; stack: MERN + Software Developer/Engineer + AI</text>
     <text x="24" y="136" fill="#ddd6fe">&gt; hackathons: 4x wins</text>
     <text x="24" y="164" fill="#ffffff">&gt; shipping<tspan>
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
