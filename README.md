@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://portfolio-9ib6.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-5C6BC0?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="[https://portfolio-9ib6.vercel.app](https://akarashak-mishra.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-Visit-5C6BC0?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 <a href="https://linkedin.com/in/akarashak-mishra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:akarshakmishra607@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
@@ -25,7 +25,7 @@
 ```js
 const akarshak = {
   location: "Prayagraj, India 🇮🇳",
-  role: ["Full-Stack Developer", "AI-Agent Engineer"],
+  role: ["Full-Stack Developer", "AI-Agent Engineer" , "Software Engineer"],
   stack: ["MERN", "FastAPI", "Redis", "Celery", "Gemini"],
   achievements: "4x national hackathon winner & team lead",
   currentlyBuilding: "Multi-agent LLM systems & scalable backends",
